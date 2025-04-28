@@ -1,0 +1,4 @@
+laravel install
+
+
+5.keepAlive component --> npm install pinia
